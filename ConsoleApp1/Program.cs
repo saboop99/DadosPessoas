@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Globalization;
 
+
 namespace ConsoleApp1
-{
+{// Rafael Do Nascimento Rodrigues RA 210211
     class Program
     {
         static void Main(string[] args)
